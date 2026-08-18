@@ -20,7 +20,7 @@ I'd rather be upfront about where this stands than oversell it:
 
 The fastest way to see this work is the Colab notebook — it doesn't need the rest of the app running:
 
-1. Open `notebook/Pitch_Perfect_Gemini_Prototype.ipynb` in [Google Colab](https://colab.research.google.com)
+1. Open `notebook/Pitch_Perfect_Prototype.ipynb` in [Google Colab](https://colab.research.google.com)
 2. Get a free API key from [Google AI Studio](https://aistudio.google.com/apikey)
 3. Upload any short pitch video and run the cells
 
