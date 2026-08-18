@@ -44,8 +44,8 @@ Visit `localhost:5173`, upload a video, and it'll hit the local backend end-to-e
 
 It will look something like this: 
 <img width="941" height="498" alt="desk1" src="https://github.com/user-attachments/assets/8d7d24ad-d714-4e81-b2b2-b9371713f12f" />
-
-
+<img width="916" height="501" alt="desk2" src="https://github.com/user-attachments/assets/35c507c3-367a-45d8-82c0-b47dee0b55bb" />
+<img width="923" height="478" alt="desk3" src="https://github.com/user-attachments/assets/56d90c2a-b09b-4156-8eff-2f90d5a4702c" />
 
 
 ## Stack
