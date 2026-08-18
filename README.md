@@ -1,4 +1,4 @@
-<img width="1874" height="1002" alt="image" src="https://github.com/user-attachments/assets/d6857262-1a8e-4919-85af-75fbe822887f" /># Pitch Perfect
+# Pitch Perfect
 
 I built this because I kept running into the same problem: you can practice a pitch or a presentation as many times as you want, but it's genuinely hard to know how it actually lands. You're too close to your own material to catch what's unclear, and reading it off a page doesn't tell you anything about pacing, tone, or whether your slides are pulling their weight.
 
